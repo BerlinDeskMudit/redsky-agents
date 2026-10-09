@@ -11,9 +11,9 @@ By participating you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 | I want to… | Start here |
 | --- | --- |
-| Report a bug | [Open a bug report](https://github.com/0xMudit/RedSky-Bot/issues/new?template=bug_report.yml) |
-| Suggest a feature | [Open a feature request](https://github.com/0xMudit/RedSky-Bot/issues/new?template=feature_request.yml) |
-| Fix something small | [`good first issue`](https://github.com/0xMudit/RedSky-Bot/labels/good%20first%20issue) |
+| Report a bug | [Open a bug report](https://github.com/0xMudit/redsky-agents/issues/new?template=bug_report.yml) |
+| Suggest a feature | [Open a feature request](https://github.com/0xMudit/redsky-agents/issues/new?template=feature_request.yml) |
+| Fix something small | [`good first issue`](https://github.com/0xMudit/redsky-agents/labels/good%20first%20issue) |
 | Pick up something meaty | The [roadmap](README.md#roadmap) — especially the missing test harness |
 | Improve the docs | Typos, unclear steps, and gaps in `docs/` are all fair game |
 | Report a vulnerability | **Privately**, per [SECURITY.md](SECURITY.md) — never in a public issue |
@@ -21,8 +21,8 @@ By participating you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).
 ## Setup
 
 ```bash
-git clone https://github.com/<you>/RedSky-Bot.git
-cd RedSky-Bot
+git clone https://github.com/<you>/redsky-agents.git
+cd redsky-agents
 npm install
 npm start
 ```

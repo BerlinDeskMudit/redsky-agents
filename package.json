@@ -4,13 +4,13 @@
   "description": "Red Sky — Grok Bot–style local AI teammates on your desktop. Runs the OpenCode CLI on your machine; not Ollama.",
   "license": "MIT",
   "author": "Muditya Raghav (https://github.com/0xMudit)",
-  "homepage": "https://github.com/0xMudit/RedSky-Bot#readme",
+  "homepage": "https://github.com/0xMudit/redsky-agents#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xMudit/RedSky-Bot.git"
+    "url": "git+https://github.com/0xMudit/redsky-agents.git"
   },
   "bugs": {
-    "url": "https://github.com/0xMudit/RedSky-Bot/issues"
+    "url": "https://github.com/0xMudit/redsky-agents/issues"
   },
   "keywords": [
     "ai-agents",
